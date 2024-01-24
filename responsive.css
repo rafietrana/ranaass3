@@ -14,4 +14,12 @@
         overflow: hidden;
     }
 }
+@media only  screen and (max-width: 425px){
+    
+    footer.footer.p-10.text-white.text-base-content {
+        margin-left: -39px;
+        text-align: center;
+    }
+}
+
 
